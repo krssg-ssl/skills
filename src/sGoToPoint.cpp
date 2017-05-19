@@ -1,13 +1,13 @@
 
 #include <fstream>
-#include "/home/kgpkubs/ssl/src/skills/include/skills/skillSet.h"
+#include "../../skills/include/skills/skillSet.h"
 #include <ssl_common/grSimComm.h>
 #include <ssl_common/config.h>
-#include </home/kgpkubs/ssl/src/navigation/include/navigation/planners.h>
-#include </home/kgpkubs/ssl/src/navigation/include/navigation/controllers/waypoint.h>
+#include "../../navigation/include/navigation/planners.h"
+#include "../../navigation/include/navigation/controllers/waypoint.h"
 #include <cstdio>
 #include <vector>
-#include </home/kgpkubs/ssl/src/navigation/include/navigation/controllers/waypoint.h>
+#include "../../navigation/include/navigation/controllers/waypoint.h"
 #include <ssl_common/config.h>
 #include <ssl_common/grSimComm.h>
 #include "ros/ros.h"
